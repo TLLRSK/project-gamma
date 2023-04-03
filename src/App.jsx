@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>._.</h1>
+      <h2>jijiuiui</h2>
     </div>
   )
 }
